@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b651775f748819443a596a57e8ab98d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 3930551499261110730, guid: 4f0176b5436f1de44bc77ab11c8a735d, type: 3}
+  - inventoryContainer: {fileID: 11400000, guid: 3e9a6dbe52b796441a4c4c809fe0856e, type: 2}
+  - dragAndDropController: {instanceID: 0}
+  executionOrder: -30
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
